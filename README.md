@@ -16,8 +16,8 @@ N/A
 ![Screenshot of the use image](img/screenshot.png)
 
 Link:
-- https://kayexie.github.io/work-day-planner/
-- https://github.com/Kayexie/work-day-planner
+- https://github.com/Kayexie/city-weather-report
+- https://kayexie.github.io/city-weather-report/
 
 
 
