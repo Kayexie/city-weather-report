@@ -12,15 +12,29 @@
     <header>
         <h1>Weather Dashboard</h1>
     </header>
-    <div class="searchCard">
+    <div class="container">
+    <div class="row">
+    <div class="searchCard col">
     <form id="citySearch">
           <h3 for="exampleInputEmail1">Search By City Name: </h3>
           <input type="text" id='cityinput' class="form-control">
           <button type="submit" id ='submit' class="btn btn-primary">Search</button>
     </form>
-        <div id="searchHistory"></div>
+        <div>
+        <h5>search history</h5>
+        <div id="historycity"></div>
+        </div>
     </div>
+    <div class="col-10">
     <div id="showWeather">
+        <div id='dayone'></div>
+        <div id='daytwo'></div>
+        <div id='daythree'></div>
+        <div id='dayfour'></div>
+        <div id='dayfive'></div>
+    </div>
+    </div>
+    </div>
     </div>
     
 </body>
